@@ -195,3 +195,24 @@
 .signin-link {
     left: 4rem;
 }
+
+@media screen and (max-width: 1030px){
+    html{
+        font-size: 75%;
+    }
+}
+@media screen and (max-width: 765px){
+    html{
+        font-size: 60%;
+    }
+}
+@media screen and (max-width: 610px){
+    html{
+        font-size: 35%;
+    }
+}
+@media screen and (max-width: 345px){
+    html{
+        font-size: 20%;
+    }
+}
